@@ -1,0 +1,14 @@
+{
+  "name": "cypress10_teamcity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn cypress run"
+  },
+  "author": "Kailash Pathak",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.9.0"
+  }
+}
